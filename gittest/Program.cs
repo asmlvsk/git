@@ -6,7 +6,7 @@ namespace gittest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Worldzzzzz!");
+            Console.WriteLine("Hello Worldzzzzzgit !");
         }
     }
 }
